@@ -33,8 +33,11 @@
                     ],
                     "samples": [
                         "pon musica de {query}",
+                        "reproduce musica de {query}",
                         "pon canciones de {query}",
+                        "reproduce canciones de {query}",
                         "pon videos de {query}",
+                        "reproduce videos de {query}",
                         "busca {query}",
                         "pon {query}",
                         "reproduce {query}",
@@ -50,10 +53,10 @@
                         }
                     ],
                     "samples": [
-                        "aleatorio {query}",
-                        "aleatorio canciones {query}",
-                        "aleatorio musica de {query}",
-                        "aleatorio videos de {query}"
+                        "reproduce de forma aleatoria {query}",
+                        "reproduce canciones aleatorias de {query}",
+                        "reproduce musica aleatoria de {query}",
+                        "reproduce videos aleatorios de {query}"
                     ]
                 },
                 {
@@ -66,7 +69,7 @@
                     ],
                     "samples": [
                         "pon una playlist de {query}",
-                        "escucha una playlist de {query}",
+                        "reproduce una playlist de {query}",
                         "reproduce playlist de {query}"
                     ]
                 },
@@ -79,7 +82,7 @@
                         }
                     ],
                     "samples": [
-                        "aleatorio playlist de {query}"
+                        "reproduce de forma aleatoria la playlist {query}"
                     ]
                 },
                 {
@@ -91,9 +94,10 @@
                         }
                     ],
                     "samples": [
-                        "pon al canal {query}",
-                        "comienza  el canal {query}",
-                        "reprodce el canal {query}"
+                        "pon el canal {query}",
+                        "pon musica del canal {query}",
+                        "pon canciones del canal {query}",
+                        "reproduce el canal {query}"
                     ]
                 },
                 {
@@ -105,7 +109,9 @@
                         }
                     ],
                     "samples": [
-                        "aleatorio canal {query}"
+                        "reproduce de forma aleatoria el canal {query}",
+                        "reproduce de forma aleatoria musica del canal {query}",
+                        "reproduce de forma aleatoria canciones del canal {query}"
                     ]
                 },
                 {
@@ -115,8 +121,15 @@
                         "quien es",
                         "que video es",
                         "que cancion es",
+                        "que cancion es esta",
+                        "que cancion esta sonando",
                         "que es esto",
-                        "que esta sonyo"
+                        "que musica es",
+                        "que musica es esta",
+                        "que es esta musica",
+                        "que musica esta sonando",
+                        "que esta sonando",
+                        "que se esta reproduciendo"
                     ]
                 },
                 {
